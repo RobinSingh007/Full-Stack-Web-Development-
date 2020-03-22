@@ -1,0 +1,46 @@
+.label {
+	text-align: center;
+	width: 200px;
+	background-color: black;
+	font-size: 30px;
+	color: green;
+	padding: 10px;
+	border-radius: 40%;	
+}
+.head {
+	margin-top: 10px;
+	padding: 30px;
+	border-radius: 50%;
+	text-align: center;
+	width: 200px;
+	background-color: black;
+	font-size: 50px;
+	color: green;
+}
+
+body {
+	background-color: blue;
+	padding: 20px;
+	margin: 0 auto;
+    display: block;	
+}
+
+.div {
+	margin: 0 auto;
+    display: block;
+    margin-left: 43%;
+}
+
+.value{
+	font-size: 20px;
+	margin-top: 10px;
+}
+.display{
+	color: yellow;
+	font-size: 20px;
+}
+
+.details {
+	color: yellow;
+	font-size: 20px;
+}
